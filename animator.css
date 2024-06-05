@@ -108,7 +108,7 @@ video {
 .button72 {
   display: flex;
   flex-direction: column;
-  background-color: #b0c4de;
+  background-color: #1138A7;
   border-radius: 15px;
   border: 3px;
   padding: 10px;
@@ -143,9 +143,10 @@ video {
   --height: 72;
 }
 .button72 > .buttonLabel {
-  font: normal normal normal 18px/normal Arial;
+  font: normal normal normal 14px/normal Georgia;
   text-align: center;
   width:100%;
+  color: #FFFFFF;
 }
 #installButton {
   position: fixed;
